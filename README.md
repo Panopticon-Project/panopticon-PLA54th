@@ -1,2 +1,5 @@
 # panopticon-PLA54th
-People’s Liberation Army’s 54th Research Institute
+
+Add all Equifax stuff
+
+https://nationalcybersecurity.com/u-s-charges-4-chinese-military-hackers-over-equifax-data-breach/
